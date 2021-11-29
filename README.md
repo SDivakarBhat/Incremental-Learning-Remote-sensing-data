@@ -4,7 +4,7 @@ Official implementation of [[CILEA_NET](https://ieeexplore.ieee.org/abstract/doc
 
 
 <p align='center'>
-    <img src="semgif-readme.png", width="700">
+    <img src="cilea-readme.png", width="700">
 </p>
 
 
